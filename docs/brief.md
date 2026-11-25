@@ -42,8 +42,9 @@ See `definition_of_done.md`.
 4. `pip install -r requirements.txt`, then `pytest`. The worked example test should pass.
 
 ## Timings
-- **Half day:** kick-off (45 min), sketch the pipeline in Mermaid (15 min), build the three extract functions with at least one test (2 hr 15 min), stand-up (15 min).
-- **Full day:** transform in the morning, load in the early afternoon, then `main.py` end to end, README, show-and-tell and a short retro.
+- **25 Nov - Half day:** kick-off (45 min), sketch the pipeline in Mermaid (15 min), build the three extract functions with at least one test (2 hr 15 min), stand-up (15 min).
+- **26 Nov - 3 hour:** transform layer
+- **27 Nov - half day:** load in the morning, then in the afternoon prepare `main.py` ready to run end to end, README, 5 minute show-and-tell and a short retro.
 
 ## Hints
 - Read the CSV with `dtype=str`. Parse dates with explicit formats, never by guessing.
